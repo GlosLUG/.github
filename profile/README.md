@@ -25,7 +25,7 @@
 * 🗓️ **Attend our Meetups:** We aim to host two meetings a month, covering diverse and engaging topics. Check our [link to your website/meetup page here] for upcoming events!
 * 🗣️ **Share Your Knowledge:** We encourage members of all skill levels to present talks, lead workshops, or simply share their experiences. Got a topic you're passionate about? Let us know!
 * 🤝 **Connect with Others:** Network with fellow Linux enthusiasts, open-source advocates, and cloud professionals in the Gloucestershire area.
-* 💡 **Contribute Ideas:** Have suggestions for meeting topics, projects, or ways to improve Glos LUG? We'd love to hear them! [Link to your issue tracker/discussion forum here]
+* 💡 **Contribute Ideas:** Have suggestions for meeting topics, projects, or ways to improve Glos LUG? We'd love to hear them! [meeting-ideas repository here](https://github.com/GlosLUG/meeting-ideas/issues)!
 
 ### Get Involved:
 
