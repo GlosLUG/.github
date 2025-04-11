@@ -30,7 +30,7 @@
 ### Get Involved:
 
 * **Browse our Repositories:** We'll be using this GitHub organization to share presentation materials, code examples, documentation, and potentially collaborative projects.
-* **Suggest Talk Ideas:** Have a topic you'd like to see covered at a future meeting? Open an issue in our [link to your meeting-ideas repository here]!
+* **Suggest Talk Ideas:** Have a topic you'd like to see covered at a future meeting? Open an issue in our [meeting-ideas repository here](https://github.com/GlosLUG/meeting-ideas/issues)!
 * **Contribute to our Website:** Help us improve our online presence! The source code for our website is available in the [link to your website repository here].
 * **Reach Out:** Have questions or want to get in touch? Feel free to join our mailing list [https://mailman.lug.org.uk/mailman/listinfo/gloucs/](https://mailman.lug.org.uk/mailman/listinfo/gloucs/)
 
